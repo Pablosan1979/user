@@ -50,7 +50,7 @@ public class Formulario extends JFrame implements ActionListener {
             String cad = textfield1.getText();            
             String cad2 = textfield2.getText();            
             String cad3 = textfield3.getText();
-            setTitle("User "+cad+" Name  "+cad2+" Pswd "+cad3);
+            setTitle("Usuario "+cad+" Nombre  "+cad2+" Pswd "+cad3);
                         
         }
     }
